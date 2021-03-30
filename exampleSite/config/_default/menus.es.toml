@@ -1,26 +1,26 @@
 [[footer_left]]
-name = "About Us"
+name = "Acerca de"
 url = "#"
 [[footer_left]]
-name = "Quick Start"
+name = "Inicio rápido"
 url = "#"
 [[footer_left]]
-name = "Pricing"
+name = "Precio"
 url = "pricing"
 [[footer_middle]]
-name = "Pricing"
+name = "Precio"
 url = "pricing"
 [[footer_middle]]
-name = "Platform"
+name = "Plataforma"
 url = "#"
 [[footer_middle]]
-name = "Features"
+name = "Caracteristicas"
 url = "#"
 [[footer_right]]
-name = "Privacy Policy"
+name = "Politica de privacidad"
 url = "privacy-policy"
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Terminos y condiciones"
 url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
