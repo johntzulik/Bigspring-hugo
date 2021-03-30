@@ -1,5 +1,5 @@
-[de]
-contentDir = "content/espanish"
+[es]
+contentDir = "content/spanish"
 copyright = "Juan Felipe Morales 2021"
 footer_content = "Algo de texto"
 footer_menu_left = "Compañia"
