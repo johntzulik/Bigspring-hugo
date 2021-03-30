@@ -1,4 +1,4 @@
-baseURL = "http://bigspring-hugo.netlify.org/"
+baseURL = "https://bigspring-hugo.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
