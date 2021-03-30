@@ -34,8 +34,8 @@ fields:
     name: copyright
     label: copyright
 - type: field_group
-  name: de
-  label: de
+  name: Es
+  label: Es
   fields:
   - type: text
     name: languageName
